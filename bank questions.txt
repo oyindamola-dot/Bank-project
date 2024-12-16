@@ -1,0 +1,6 @@
+I have transcation data table with the following columns: capture ID, date, client ID, CARD ID, Amount, use chip, marchant ID, marchant city, marchant state, zip,mcc, transcation error.
+I have another table called card data with the following columns: ID,CLIENT id, card brand, card type, card number,expire date, cvv,has chip, num_cards_issued,credit_limit, acct_open_date, year_piin_last changed
+I have another table called user_data with the following columns: id, current_age, retirement_age, birth_year, birth_month, gender, address, latitude,lingitude,per_capital_income, yearly_income, total_debt, credit_score,number_credit_card, yearToRetirement, ageGroup, IncomeGroup
+I also have another table called mcc which include the following columns: mcc id and description
+
+Using powerBi, I want to analyze Spending Trends: Uncover patterns and growth opportunities in transaction data.
